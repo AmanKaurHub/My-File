@@ -6,7 +6,7 @@
   <body>
     <h1><marque> TCP PROTOCOL</h1></marque>
       <body>
-      <p><h4> Transmission Control Protocol is used to create the connection and share information between clients and server.</h4>h4> </p>
+      <p><h4> Transmission Control Protocol is used to create the connection and share information between clients and server.</h4> </p>
       </body>
     </h1>html
                                                                                                                                          
