@@ -7,11 +7,13 @@
       <body>
       <p><h4> Transmission Control Protocol is used to create the connection and share information between clients and server.</BR>It is advanced Protocol as compared to UDP.</h4> </p>
         <h1> TCP has 2 parts</h1>
+        <ul>
         <li>IP Part</li>
       <li>Port Number</li>
+      </ul>
       <h1>Types of Protocols</h1>
       <table>
-        <tr>
+      <tr>
           <td>HTTP Protocol</td>
           <td>FTP Protocol</td>
           <td>UDP Protocol</td>
