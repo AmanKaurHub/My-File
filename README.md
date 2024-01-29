@@ -1,10 +1,9 @@
 # My-File
 <html>
-  <head>
-  <title>My first Document</title>
+  <head></head>
   </head>
   <body>
-    <h1><marque> TCP PROTOCOL</h1></marque>
+    <h1> TCP PROTOCOL</h1>
       <body>
       <p><h4> Transmission Control Protocol is used to create the connection and share information between clients and server.</h4> </p>
       </body>
