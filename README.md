@@ -1,5 +1,4 @@
 # My-File
-My File
 <html>
   <head>
     <title>My first Document</title>
