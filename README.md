@@ -14,13 +14,11 @@
       <h1>Types of Protocols</h1>
       <table>
       <tr>
-         
-          <td>FTP Protocol</td>
+           <td>FTP Protocol</td>
           <td>UDP Protocol</td>
       </tr>
       <tr>
-        
-          <td>File Transfer Protocol</td>
+         <td>File Transfer Protocol</td>
           <td>User Datagrm Protocol</td>
       </tr>
      </table>
